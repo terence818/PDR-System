@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271063017370",
+    "firebase_url": "https://gym-trainers-booking-app.firebaseio.com",
+    "project_id": "gym-trainers-booking-app",
+    "storage_bucket": "gym-trainers-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271063017370:android:eb6071ca1068e291aabc23",
+        "android_client_info": {
+          "package_name": "com.example.personalgymtrainersmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271063017370-96vu0m7pm3lacsl1gtbhiv3q420fdq1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalgymtrainersmobileapp",
+            "certificate_hash": "420ea44c832b3ecb34a5ab532d014df8d335f494"
+          }
+        },
+        {
+          "client_id": "271063017370-j4uc3hrm1n542joen5e4ckjn5u3cq08e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZUY32b4u4F9RF3On0VNhkag8Ix8DZEFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271063017370-j4uc3hrm1n542joen5e4ckjn5u3cq08e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

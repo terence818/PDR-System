@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210730137273",
+    "firebase_url": "https://pdr-system.firebaseio.com",
+    "project_id": "pdr-system",
+    "storage_bucket": "pdr-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210730137273:android:ea01436daf2a47d5af4d68",
+        "android_client_info": {
+          "package_name": "com.example.pdrsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210730137273-f7pv99q051dlkdhnlr1kof4nknk3acu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdrsystem",
+            "certificate_hash": "92fdafb62c0ad59605373c546d9f93096c496260"
+          }
+        },
+        {
+          "client_id": "210730137273-it4r2f1pffg2sg6qau5gtuae1s9btg4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdw2mb0wHlcWL8SD5L-gnTzGYAnbTA-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210730137273-it4r2f1pffg2sg6qau5gtuae1s9btg4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

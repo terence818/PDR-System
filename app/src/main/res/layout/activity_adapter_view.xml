@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/round_corner"
+    android:orientation="horizontal"
+    android:tag="cards main container">
+
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:padding="6dp"
+        android:layout_margin="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/state_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="@string/state_name">
+        </TextView>
+
+        <Button
+            android:id="@+id/delete2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/update"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="end"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/login_button"
+            android:minHeight="0dp"
+            android:text="@string/delete"
+            android:textColor="@color/red"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
+
+

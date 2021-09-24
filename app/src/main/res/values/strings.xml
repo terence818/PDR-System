@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">PDRA System</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up_short">CREATE AN ACCOUNT</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="existing_user">Already have an Account?</string>
+    <string name="create_new_user">Don\'t have  an account?</string>
+    <string name="forgot_password">Forgot Your Password?</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="logo">Logo</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="forgot_password_title">"Forgot Password?"</string>
+    <string name="submit">"Submit"</string>
+    <string name="state">"State"</string>
+    <string name="add">"Add"</string>
+    <string name="edit">"Edit"</string>
+    <string name="auth_failed">Invalid password or email</string>
+    <string name="cancel">Cancel</string>
+    <string name="main_title">PDRA System</string>
+    <string name="description_forgot_password">"Lost your password? Please enter your email address. You will receive a link to a create new password via email."</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="ngo">NGO</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="view_affected_area">View Affected Area</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="submit_helped_location">Submit Helped Location</string>
+    <string name="report">Report</string>
+    <string name="estimated_required_drinking_water">Drinking water</string>
+    <string name="required_bed_sheet">Bed sheet</string>
+    <string name="poor">Poor</string>
+    <string name="good">Good</string>
+    <string name="ipoh_perak">IPOH , PERAK</string>
+    <string name="select_donation">Select Donation</string>
+    <string name="water">Water</string>
+    <string name="state_name">state_name</string>
+    <string name="state_address">state_address</string>
+    <string name="status">status</string>
+    <string name="delete">Delete</string>
+    <string name="approved_by">Approved By:</string>
+    <string name="approved">Approver</string>
+    <string name="donate">Donate</string>
+    <string name="address_state">State or Place name</string>
+    <string-array name="state">
+        <item>Selangor</item>
+        <item>Perak</item>
+        <item>Kelantan</item>
+        <item>Sarawak</item>
+        <item>Sabah</item>
+        <item>Perlis</item>
+        <item>Penang</item>
+        <item>Johor</item>
+        <item>Kedah</item>
+        <item>Malacca</item>
+        <item>Negeri Sembilan</item>
+        <item>Kuala Lumpur</item>
+        <item>Pahang</item>
+        <item>Kelantan</item>
+        <item>Terengganu</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_admin">Admin</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_area">AreaActivity</string>
+    <string name="make_an_order">Select items</string>
+    <string name="dialog_title">Items available in a shop</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="enter_address">Enter address</string>
+    <string name="area">Area:</string>
+
+    <string-array name="item">
+        <item>Bed sheets</item>
+        <item>Mineral water</item>
+        <item>Rice</item>
+        <item>Biscuits</item>
+        <item>Red Aids Kit</item>
+
+
+    </string-array>
+
+
+    <string name="history">History</string>
+    <string name="about_us">About Us</string>
+    <string name="Add_Location">Add_Location</string>
+    <string name="Users">Users</string>
+
+
+    <string name="shelter">Shelter</string>
+    <string name="active_disaster">Active Disaster</string>
+    <string name="safe_area">Safe Area</string>
+    <string name="severity">Severity</string>
+    <string name="resource_available">Resource Available</string>
+    <string name="water_level">Water Level</string>
+    <string name="_0">0%</string>
+    <string name="about_us_desc">This is an application built to help NGO and volunteers to monitor the progress of Areas that are affected by disaster.</string>
+    <string name="author">POBHENRHAJ CHANDRA</string>
+    <string name="view_desc">View area and add donation.</string>
+    <string name="log_out_desc">Do you want to logout?</string>
+    <string name="area_desc">View status and severity of area.</string>
+    <string name="au_desc">Want to know more about us?</string>
+    <string name="activity_desc">Check your history and activity.</string>
+    <string name="item">Item</string>
+    <string name="amount_required">Amount required</string>
+    <string name="update">Update</string>
+    <string name="Admin_desc">Add new affected area</string>
+    <string name="Users_desc">View all registered Users</string>
+    <string name="created_date">Created date</string>
+    <string name="latest_updated_date">Latest Updated date</string>
+    <string name="middle">:</string>
+</resources>
